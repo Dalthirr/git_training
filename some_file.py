@@ -7,7 +7,7 @@ def do_something(data):
     if not data.empty:
         print("DataFrame detected")
         return np.mean(data['col1'])
-
+        psuej cos
     raise ValueError("We have nothing here!")
 
 
