@@ -1,1 +1,1 @@
-print("jestem w xd")
+print("jestem w pliku xd")

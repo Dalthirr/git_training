@@ -15,5 +15,5 @@ def do_something(data):
 if __name__ == "__main__":
     df = pd.DataFrame(data={'col1': [1, 2], 'col2': [3, 4]})
     print(do_something(df))
-    print("jestem w dupie hahaha hohoho")
+    print("jestem w dupie hahaha hihihi")
 
